@@ -5,6 +5,7 @@ running = True
 
 while running:
 
+
     player = None
     computer = random.choice(options)
 
